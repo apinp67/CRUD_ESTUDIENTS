@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "cedula": "0952623650",
+        "nombres": "Andry",
+        "apellidos": "Pin",
+        "carrera": "ing en software",
+        "semestre": 5,
+        "promedio": 10.0
+    }
+]
